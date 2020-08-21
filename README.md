@@ -4,10 +4,6 @@
 Test command: npm run test
 ```
 
-```
-Aws command: aws s3 sync build/ s3://redux-toolkit
-```
-
 # Docker Image name
 
 ```
